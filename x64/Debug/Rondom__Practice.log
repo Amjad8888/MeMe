@@ -1,0 +1,19 @@
+﻿  Rondom__Practice.cpp
+F:\C++ Code\Rondom__Practice\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\C++ Code\Rondom__Practice\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\C++ Code\Rondom__Practice\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\C++ Code\Rondom__Practice\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\C++ Code\Rondom__Practice\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\C++ Code\Rondom__Practice\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\C++ Code\Rondom__Practice\clsInput.h(21,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\C++ Code\Rondom__Practice\clsAddNewScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\C++ Code\Rondom__Practice\clsEmployee.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\C++ Code\Rondom__Practice\clsAddNewScreen.h(27,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\C++ Code\Rondom__Practice\clsLoginLogOut.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\C++ Code\Rondom__Practice\clsShowRej_LogScreen.h(27,11): warning C4129: '|': unrecognized character escape sequence
+F:\C++ Code\Rondom__Practice\clsLogOutScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\C++ Code\Rondom__Practice\clsLogInScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\C++ Code\Rondom__Practice\clsUpdateJopInfoScreen.h(38,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\C++ Code\Rondom__Practice\clsUpdateAllScreen.h(22,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\C++ Code\Rondom__Practice\clsShowCalculaterScreen.h(35,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Rondom__Practice.vcxproj -> F:\C++ Code\Rondom__Practice\x64\Debug\Rondom__Practice.exe

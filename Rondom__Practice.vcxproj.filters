@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\DS">
+      <UniqueIdentifier>{82ee5610-3ff6-4f10-b262-60830bc614dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DS\practiceDS">
+      <UniqueIdentifier>{3235b74b-c315-4a60-94f8-873900b992f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\EmployeeMangmentSystem">
+      <UniqueIdentifier>{0ef63a7a-dc3b-4dc1-b182-d49aaca90b06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Librarys">
+      <UniqueIdentifier>{aa45ee31-8701-415e-98f9-6455f3f53bd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\EmployeeMangmentSystem\clsScreen">
+      <UniqueIdentifier>{9eec26c8-584b-4efe-8850-e59d55fc27c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen">
+      <UniqueIdentifier>{0b2ef047-baaf-454b-94a1-6aaf4d255ec8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\EmployeeMangmentSystem\clsBackend">
+      <UniqueIdentifier>{a1a7dbb7-09fb-448a-8eea-cb846451e17d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\ViewScreens">
+      <UniqueIdentifier>{974493b5-3577-4338-89f8-7e6f850a1d6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\UpdateScreen">
+      <UniqueIdentifier>{cbc06510-a80f-428e-acd5-09750215b7a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\LogScreen">
+      <UniqueIdentifier>{a82e7ce2-b543-4776-9564-e7651005645c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game_Stone_Papare">
+      <UniqueIdentifier>{a13147af-dc0a-4222-b3ae-e7c7d6707c06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\calculater">
+      <UniqueIdentifier>{ada37113-5ae9-4a1e-87df-298f06982dda}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Rondom__Practice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="clsMyStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="clsResultGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsGameStonPaper.h">
+      <Filter>Header Files\Game_Stone_Papare</Filter>
+    </ClInclude>
+    <ClInclude Include="clsResultGame.h">
+      <Filter>Header Files\Game_Stone_Papare</Filter>
+    </ClInclude>
+    <ClInclude Include="clsOpretions.h">
+      <Filter>Header Files\calculater</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowCalculaterScreen.h">
+      <Filter>Header Files\calculater</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDblLinkedList.h">
+      <Filter>Header Files\DS\practiceDS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDynamicArray.h">
+      <Filter>Header Files\DS\practiceDS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsExmples.h">
+      <Filter>Header Files\DS\practiceDS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyQueue.h">
+      <Filter>Header Files\DS\practiceDS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyQueueArr.h">
+      <Filter>Header Files\DS\practiceDS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyQueueLine.h">
+      <Filter>Header Files\DS\practiceDS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyStack.h">
+      <Filter>Header Files\DS\practiceDS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyStackArr.h">
+      <Filter>Header Files\DS\practiceDS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\Librarys</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\Librarys</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyString.h">
+      <Filter>Header Files\Librarys</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInput.h">
+      <Filter>Header Files\Librarys</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLogInScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\LogScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLogOutScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\LogScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowRej_LogScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\LogScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddress.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="clsEmployee.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginLogOut.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainLogScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\LogScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowOptionViewScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\ViewScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsViewInfoJopScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\ViewScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsViewPersonInfoScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\ViewScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowOptionUpdate.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\UpdateScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateJopInfoScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\UpdateScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdatePersonInfoScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\UpdateScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateAllScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen\UpdateScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteEmpScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen\EmploScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainEmpMenuScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\EmployeeMangmentSystem\clsScreen</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
